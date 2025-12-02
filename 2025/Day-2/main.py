@@ -1,5 +1,5 @@
 def read_input():
-    with open("test.txt") as file:
+    with open("input.txt") as file:
         input = file.read().split(",")
     return input
 
